@@ -1,6 +1,6 @@
 <h1>Space Shooter</h1>
 
- ### 🎲 [Demo Image](https://imgur.com/VW0vO9g)
+ ### 🎲 [Gameplay Video](https://imgur.com/VW0vO9g)
 
 <h2>Description</h2>
 A simple 1-scene game to practice the implementation of spirtes, scripts, and animation. Player can control the spaceship, shoot asteroids, view scores.
