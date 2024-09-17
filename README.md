@@ -1,4 +1,4 @@
-<h1>Console Application</h1>
+<h1>Space Shooter</h1>
 
  ### 🎲 [Demo Image](https://imgur.com/VW0vO9g)
 
