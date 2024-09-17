@@ -1,6 +1,6 @@
 <h1>Space Shooter</h1>
 
- ### 🎲 [Gameplay Video](https://imgur.com/VW0vO9g)
+ ### 🎲 [Gameplay Demo](https://drive.google.com/file/d/1sN2kNeNHzkgY5eqiwF2TsHL8aVTZJezh/view?usp=sharing)
 
 <h2>Description</h2>
 A simple 1-scene game to practice the implementation of spirtes, scripts, and animation. Player can control the spaceship, shoot asteroids, view scores.
@@ -18,18 +18,6 @@ A simple 1-scene game to practice the implementation of spirtes, scripts, and an
 <h2>Gameplay Screenshots:</h2>
 
 <p align="center">
-Take student information, extract digits in Student ID and display in as an array: <br/>
-<img src="https://i.imgur.com/xwoFy4m.png" height="80%" width="80%" alt="IPO Console Application"/>
-<br />
-<br />
-Do math operations with integers:  <br/>
-<img src="https://i.imgur.com/VqVRGFh.png" height="80%" width="80%" alt="IPO Console Application"/>
-<br />
-<br />
-Do math operations with decimals: <br/>
-<img src="https://i.imgur.com/YVLbUoj.png" height="80%" width="80%" alt="IPO Console Application"/>
-<br />
-<br />
-Do String Concatenation:  <br/>
-<img src="https://i.imgur.com/gtUQMPb.png" height="80%" width="80%" alt="IPO Console Application"/>
+Good luck have fun <br>
+<img src="https://i.imgur.com/olew2VK.png" height="80%" width="80%" alt="IPO Console Application"/>
 </p>
