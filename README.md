@@ -3,7 +3,7 @@
  ### 🎲 [Demo Image](https://imgur.com/VW0vO9g)
 
 <h2>Description</h2>
-Project is a console application using algorithms to receive inputs from users, extract data and display the required outputs.
+A simple 1-scene game to practice the implementation of spirtes, scripts, and animation. Player can control the spaceship, shoot asteroids, view scores.
 <br />
 
 
@@ -11,11 +11,11 @@ Project is a console application using algorithms to receive inputs from users, 
 
 - <b>C#</b> 
 
-<h2>IDE Used </h2>
+<h2>Engine Used </h2>
 
-- <b>Visual Studio 2022</b>
+- <b>Unity</b>
 
-<h2>Program walk-through:</h2>
+<h2>Gameplay Screenshots:</h2>
 
 <p align="center">
 Take student information, extract digits in Student ID and display in as an array: <br/>
