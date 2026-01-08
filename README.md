@@ -1,6 +1,6 @@
 <h1>Space Shooter</h1>
 
- ### 🎲 [Gameplay Demo](https://drive.google.com/file/d/1sN2kNeNHzkgY5eqiwF2TsHL8aVTZJezh/view?usp=sharing)
+ ### 🎲 [Gameplay Demo](https://drive.google.com/file/d/1hdu0rVWtYHhb9sykHbRPKyzy6hlY6Skn/view?usp=sharing)
 
 <h2>Description</h2>
 A simple 1-scene game to practice the implementation of spirtes, scripts, and animation. Player can control the spaceship, shoot asteroids, view scores.
@@ -19,5 +19,5 @@ A simple 1-scene game to practice the implementation of spirtes, scripts, and an
 
 <p align="center">
 Good luck have fun <br>
-<img src="https://i.imgur.com/olew2VK.png" height="80%" width="80%" alt="IPO Console Application"/>
+<img src="https://i.imgur.com/tT3nJIb.png" height="80%" width="80%" alt="Starship"/>
 </p>
