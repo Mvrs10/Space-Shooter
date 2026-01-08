@@ -1,4 +1,4 @@
-<h1>Space Shooter</h1>
+<h1>Starship</h1>
 
  ### 🎲 [Gameplay Demo](https://drive.google.com/file/d/1hdu0rVWtYHhb9sykHbRPKyzy6hlY6Skn/view?usp=sharing)
 
